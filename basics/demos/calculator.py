@@ -1,0 +1,5 @@
+n1 = float(input("enter first number"))
+n2 = float(input("enter second number"))
+print(f"{n1} + {n2} = {n1+n2}")
+print("{} - {} = {}".format(n1,n2,n1-n2))
+print(f"{n1}/{n2} = {n1/n2}")
