@@ -39,4 +39,3 @@ def run():
       b2 = basket()
       b += b2
 
-run()
